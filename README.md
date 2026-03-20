@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @somnathdas
+- 👋 Hi, I’m @somnathdas9733
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
